@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <PreferenceCategory android:title="General">
+    <ListPreference
+         android:dialogTitle="@string/dialogTitleService"
+         android:entries="@array/empty"
+         android:entryValues="@array/empty"
+         android:key="@string/keyService"
+         android:title="@string/titleService"></ListPreference>
+  </PreferenceCategory>
+</PreferenceScreen>
+<!--Copyright 2017 All Rights Reserved in GoVivace.Inc-->

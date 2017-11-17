@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="SpeechToText.SpeechToText" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="19" />
+	<uses-permission android:name="android.permission.RECORD_AUDIO" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<application android:label="SpeechToText" android:icon="@drawable/ic_launcher">
+		<intent-filter>
+			<action android:name="android.intent.action.MAIN" />
+			<category android:name="android.intent.category.LAUNCHER" />
+		</intent-filter>
+		<intent-filter>
+			<action android:name="android.intent.action.VOICE_COMMAND" />
+			<category android:name="android.intent.category.DEFAULT" />
+		</intent-filter>
+		<intent-filter>
+			<action android:name="android.intent.action.ASSIST" />
+			<category android:name="android.intent.category.DEFAULT" />
+		</intent-filter>
+		<activity android:name=".SettingActivity" android:label="@string/title_activity_settings" android:theme="@style/AppTheme" />
+	</application>
+</manifest>

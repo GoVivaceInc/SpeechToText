@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sdk>
+  <AndroidApiLevel>27</AndroidApiLevel>
+  <AndroidApiLevelName>27</AndroidApiLevelName>
+  <AndroidNdkPath>C:\ProgramData\Microsoft\AndroidNDK\android-ndk-r11c\</AndroidNdkPath>
+  <AndroidSdkBuildToolsPath>C:\Users\enabledoc\AppData\Local\Android\sdk\build-tools\27.0.1</AndroidSdkBuildToolsPath>
+  <AndroidSdkBuildToolsBinPath>C:\Users\enabledoc\AppData\Local\Android\sdk\build-tools\27.0.1</AndroidSdkBuildToolsBinPath>
+  <AndroidSdkPath>C:\Users\enabledoc\AppData\Local\Android\sdk</AndroidSdkPath>
+  <JavaSdkPath>C:\Program Files\Java\jdk1.8.0_66</JavaSdkPath>
+  <MonoAndroidBinPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidBinPath>
+  <MonoAndroidToolsPath>C:\Program Files (x86)\MSBuild\Xamarin\Android</MonoAndroidToolsPath>
+  <ReferenceAssemblyPaths>
+    <ReferenceAssemblyPath>C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\</ReferenceAssemblyPath>
+  </ReferenceAssemblyPaths>
+  <TargetFrameworkVersion>v7.0</TargetFrameworkVersion>
+  <ZipAlignPath>C:\Users\enabledoc\AppData\Local\Android\sdk\build-tools\27.0.1</ZipAlignPath>
+  <MonoAndroidIncludePath />
+  <SupportedApiLevel>24</SupportedApiLevel>
+  <AndroidSequencePointsMode>Normal</AndroidSequencePointsMode>
+</Sdk>
